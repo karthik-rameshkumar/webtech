@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<shop>
+	<gd>
+		<name>Cetzine</name>
+		<barcodeid>986575421</barcodeid>
+		<dom>07/05/2013</dom>
+		<doe>07/05/2015</doe>
+		<composition>Levocetrizine Di-hydrochloride</composition>
+		<Man>MHS Pharma</Man>
+	</gd>
+	<gd>
+		<name>Okacet</name>
+		<barcodeid>9875431547</barcodeid>
+		<dom>09/08/2012</dom>
+		<doe>09/08/2014</doe>
+		<composition>Levocetrizine Di-hydrochloride</composition>
+		<Man>Cipla Pharma</Man>
+	</gd>
+        <gd>
+		<name>Crocin</name>
+		<barcodeid>9876542587</barcodeid>
+		<dom>06/04/2013</dom>
+		<doe>09/04/2014</doe>
+		<composition>Paracetamol IP</composition>
+		<Man>Proctor and Gamble Pharma</Man>
+	</gd>
+        <gd>
+		<name>Crocin Pain </name>
+		<barcodeid>987654544</barcodeid>
+		<dom>09/08/2013</dom>
+		<doe>09/08/2014</doe>
+		<composition>Paracetamol IP, Caffeine</composition>
+		<Man>Proctor and Gamble Pharma</Man>
+	</gd>
+        <gd>
+		<name>Crocin Cold and Flu</name>
+		<barcodeid>9876578458</barcodeid>
+		<dom>09/01/2013</dom>
+		<doe>09/02/2014</doe>
+		<composition>Paracetamol IP, Caffeine, Cetrizine</composition>
+		<Man>Proctor and Gamble Pharma</Man>
+	</gd>
+	
+</shop>
+
